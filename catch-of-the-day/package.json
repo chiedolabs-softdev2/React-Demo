@@ -7,7 +7,9 @@
     "react-scripts": "^1.1.4"
   },
   "dependencies": {
+    "ajv": "^6.6.1",
     "autoprefixer-stylus": "0.14.0",
+    "dotenv": "^6.1.0",
     "firebase": "^4.10.1",
     "prop-types": "^15.6.0",
     "re-base": "3.2.2",
